@@ -1,0 +1,11 @@
+opinion_puppeted = {
+	opinion = {
+		base = 200
+	}
+	
+	max = 300
+	
+	decay = {
+		base = 5
+	}
+}

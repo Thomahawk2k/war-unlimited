@@ -1,0 +1,13 @@
+﻿l_english:
+ war_demand_install_friendly_gov_header:1 "§YInstall Friendly Government§!"
+ war_demand_install_friendly_gov_subtext:0 "[parameter:country.GetName]"
+ war_demand_install_friendly_gov_tooltip_header:0 "$war_demand_install_friendly_gov_header$"
+ war_demand_install_friendly_gov_tooltip_content:1 "Install our government in [parameter:country.GetName]."
+ war_demand_install_friendly_gov_tooltip_proper_header:0 "$war_demand_install_friendly_gov_header$"
+ war_demand_install_friendly_gov_tooltip_proper_content:0 "Install the government of the [GetCountry.GetName] in the [parameter:country.GetName]."
+ war_demand_liberate_planet_vassal_header:1 "§GLiberate Planet as Vassal§!"
+ war_demand_liberate_planet_vassal_subtext:1 "[parameter:planet.GetName] ([parameter:planet.GetStarName])"
+ war_demand_liberate_planet_vassal_tooltip_header:0 "$war_demand_liberate_planet_vassal_header$"
+ war_demand_liberate_planet_vassal_tooltip_content:2 "Give independence to [parameter:planet.GetName] as our vassal. All planets liberated in a war will form a new empire with the same ethos as their overlord.\n(Requires the planet to be occupied by an Assault Army)\n\nOwned by: §H[parameter:planet.GetOwnerName]§!\nControlled by: §H[parameter:planet.GetControllerName]§!"
+ war_demand_liberate_planet_vassal_tooltip_proper_header:1 "$war_demand_liberate_planet_vassal_header$"
+ war_demand_liberate_planet_vassal_tooltip_proper_content:2 "Give independence to [parameter:planet.GetName] as our vassal. All planets liberated in a war will form a new empire with the same ethos as their overlord.\n(Requires the planet to be occupied by Assault Armies)\n\nOwned by: §H[parameter:planet.GetOwnerName]§!\nControlled by: §H[parameter:planet.GetControllerName]§!"

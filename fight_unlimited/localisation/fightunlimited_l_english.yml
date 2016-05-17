@@ -1,0 +1,7 @@
+l_english:
+ war_demand_install_friendly_gov_header:1 "§YInstall friendly government§!"
+ war_demand_install_friendly_gov_subtext:0 "[parameter:country.GetName]"
+ war_demand_install_friendly_gov_tooltip_header:0 "$war_demand_install_friendly_gov_header$"
+ war_demand_install_friendly_gov_tooltip_content:1 "Install the government of [GetCountry.GetName] in [parameter:country.GetName]."
+ war_demand_install_friendly_gov_tooltip_proper_header:0 "$war_demand_install_friendly_gov_header$"
+ war_demand_install_friendly_gov_tooltip_proper_content:0 "Install the government of [GetCountry.GetName] in [parameter:country.GetName]."
